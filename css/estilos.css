@@ -1,0 +1,31 @@
+body{
+  		background-color: #00a6d3;
+  	}
+
+  	h1{
+  		color: white;
+  		font-size: 100px;
+  		font-family: "Arial";
+  		font-style: italic;
+  	}
+  	p{
+  		color : white;
+  		font-size: 18px;
+  	}
+    label{
+      color : white;
+      font-size: 18px;
+    }
+    #categoria{
+      color: white;
+      font-size: 30px;
+      font-style: italic;
+    }
+    .img1{
+      float:left;
+      width:206px;
+      height:298px;
+      background-image:url("images/zapatilla1.jpg");
+      background-size:150% 120%;
+      background-position:center;
+    }
